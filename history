@@ -1,0 +1,116 @@
+
+
+$ habitus --build host=10.0.99.1
+
+$ curl http://localhost:49167
+curl: (7) Failed to connect to localhost port 49167: Connection timed out
+
+$ wget -O ~/.ssh/id_rsa http://192.168.99.1:8080/secrets/file/id_rsa && ssh -T
+--2017-02-20 08:36:22--  http://192.168.99.1:8080/secrets/file/id_rsa
+Connecting to 192.168.99.1:8080...
+
+
+    1  svn --force export http://apt-cyg.googlecode.com/svn/trunk/ /bin/
+    2  $ chmod +x /bin/apt-cyg
+    3  svn --force export http://apt-cyg.googlecode.com/svn/trunk/ /bin/
+    4  $ chmod +x /bin/apt-cyg
+    5  svn --force export http://apt-cyg.googlecode.com/svn/trunk/ /bin/
+    6  lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
+    7  install apt-cyg /bin
+    8  lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
+    9  install apt-cyg /bin
+   10  apt-cyg show
+   11  apt-cyg showupdate
+   12  apt-cyg update
+   13  apt-cyg install ssh
+   14  apt-cyg search ssh
+   15  apt-cyg install openssh
+   16  apt-cyg package list
+   17  apt-cyg list
+   18  apt-cyg install rsync
+   19  apt-cyg install tar
+   20  apt-cyg install wget
+   21  betstat
+   22  netstat
+   23  netstat
+   24  ping winnie.corp.microsoft.com
+   25  apt-cyg install putty
+   26  putty
+   27  putty root@winnie.corp.microsoft.com
+   28  choco
+   29  choco install putty
+   30  apt-cyg list
+   31  puppet
+   32  putty
+   33  man putty
+   34  putty --1024x768 root@
+   35  1 update is a security up
+   36  putty --1024x768 root
+   37  putty --1024
+   38  choco install nmap
+   39  apt-cyg install nmap
+   40  echo 'alias nmap="/cygdrive/c/Program Files (x86)/Nmap/nmap.exe"' >> ~/.bash_profi
+   61  ls
+   62  xwin multiwindow
+   63  xwin
+   64  xwin multiwindow
+   65  ssh -Y root@winnie
+   66  set |grep DISPLAY
+   67  set |grep $DISPLAY
+   68  ssh -Y root@winnie
+   69  ssh -X root@winnie DISPLAY=10.0 xterm
+   70  apt-cyg search x11
+   71  cd /etc/
+   72  ls
+   73  cd ssh
+   74  ls
+   75  cd x11
+   76  ls
+   77  xinit
+   78  xinit
+   79  xinit
+   80  xinit
+   81  export DISPLAY=:0.0
+   82  xwin multiwindow export DISPLAY=:0.0
+   83  xwin -multiwindow export DISPLAY=:0.0
+   84  xwin -multiwindow
+   85  export DISPLAY=:0.0
+   86  xwin -multiwindow
+   87  xwin -multiwindow
+   88  x
+   89  xhost
+   90  xhost +
+   91  ssh -Y root@winnie
+   92  cyg-apt list
+   93  apt-cyg list
+   94  apt-cyg search x
+   95  apt-cyg install x;lunch
+   96  apt-cyg install xlunch
+   97  apt-cyg install xlaunch
+   98  cat .bashrc
+   99  vim .bashrc
+  100  cat .bashrc
+  101  vim .bashrc
+  102  xwin -multiwindow
+  103  xwin -multiwindow
+  104  xwin -multiwindow
+  105  xwin
+  106  exit
+  107  ssh -Y root@winnie
+  108  wget -c 'http://care.dlservice.microsoft.com/dl/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO'
+  109  docker
+  110  docker build -t docker-whale .
+  111  ls
+  112  ssh -Y 10.13.1.9
+  113  x
+  114  
+  126  docker pull linuxserver/plex
+  127  docker run -d -p 80:80 hypriot/rpi-busybox-httpd
+  128  docker build github.com/creack/docker-firefox
+m
+  134  RUN wget -O ~/.ssh/id_rsa http://192.168.99.1:8080/secrets/file/id_rsa && ssh -T
+  135  wget -O ~/.ssh/id_rsa http://192.168.99.1:8080/secrets/file/id_rsa && ssh -T
+
+  140  wget -O ~/.ssh/id_rsa http://192.168.99.1:8080/secrets/file/id_rsa && ssh -T
+
+
